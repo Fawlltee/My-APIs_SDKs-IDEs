@@ -1,0 +1,7 @@
+NodeJS
+NPM
+Git_Bash | _CMD
+Azure
+CoPilot
+LFS
+Pieces
